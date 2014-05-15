@@ -14,3 +14,11 @@ Jekyll-specific snippet for code blocks highlighting:
 ```
 
 Select code, press <kbd>tab</kbd>, enter `hl`, press <kbd>tab</kbd> again.
+
+### inc 
+
+Include tag as used in Shopify and Jekyll:
+
+```django
+{% include ${1} %}
+```
